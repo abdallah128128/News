@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+A new Flutter project.It helps you to know the news, whether business, sports and scientific.
 
 ## Getting Started
 
